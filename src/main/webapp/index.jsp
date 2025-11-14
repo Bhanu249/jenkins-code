@@ -488,7 +488,7 @@
 
         .testimonial-card {
             min-width: 350px;
-            background-color: white;
+            background-color: ;
             border-radius: 10px;
             padding: 30px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Rainy Collection in 2025</h1>
+            <h1>Big billion day sale jan 12th - 14th 2026 </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
